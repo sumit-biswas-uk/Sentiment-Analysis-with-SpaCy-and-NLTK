@@ -33,21 +33,33 @@ ConfusionMatrixDisplay (Sklearn)
 ## Project Structure
 
 Importing Libraries: Necessary libraries are imported.
+
 Mounting Dataset: Mounting the dataset from Google Drive.
+
 Exploratory Data Analysis (EDA): Understanding dataset shape, columns, and data types.
+
 Data Cleaning: Checking for missing values, empty cells, and whitespace cells.
+
 NLP Model Creation: Using Spacy and TextBlob for polarity analysis.
+
 Evaluation: Comparing polarity analysis results with review ratings.
+
 Visualization: Generating word clouds for positive, neutral, and negative words.
+
 NLTK Sentiment Analysis: Using NLTK with VADER for sentiment analysis.
+
 Conclusion: Discussing strengths, limitations, and overall performance of both models.
 
 **How to Use**
 
 Download the dataset from the provided Kaggle link.
+
 Upload the dataset to your Google Drive or local environment.
+
 Run the provided code in your preferred environment (e.g., Google Colab, Jupyter Notebook).
+
 Follow the code comments and outputs to understand the analysis process.
+
 Analyze the generated confusion matrices and accuracy scores for model evaluation.
 
 **Important Notes**
