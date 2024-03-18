@@ -6,17 +6,27 @@ This project focuses on sentiment analysis using Natural Language Processing (NL
 
 
 **Dataset**
+
 Due to the large size of the dataset, it cannot be uploaded to GitHub. You can download the dataset from Kaggle.
 
 **Libraries Used**
+
 NumPy
+
 Matplotlib
+
 Pandas
+
 Spacy
+
 TextBlob
+
 WordCloud
+
 NLTK
+
 SentimentIntensityAnalyzer (VADER)
+
 ConfusionMatrixDisplay (Sklearn)
 
 
