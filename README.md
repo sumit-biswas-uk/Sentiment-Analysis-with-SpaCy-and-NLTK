@@ -27,7 +27,7 @@ NLTK
 
 SentimentIntensityAnalyzer (VADER)
 
-ConfusionMatrixDisplay (Sklearn)
+ConfusionMatrixDisplay (Scikit-learn)
 
 
 ## Project Structure
